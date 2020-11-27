@@ -1,2 +1,2 @@
-# Real-estate-model
-Bangaluru model
+# Machine learning model
+Real estate model , earphone review 
